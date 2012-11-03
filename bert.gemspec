@@ -12,7 +12,7 @@ Gem::Specification.new do |s|
   s.date = "2011-11-08"
   s.description = "BERT Serializiation for Ruby"
   s.email = "tom@mojombo.com"
-  s.extensions = ["ext/bert/c/extconf.rb", "ext/bert/c/extconf.rb"]
+
   s.extra_rdoc_files = [
     "LICENSE",
     "README.md"
